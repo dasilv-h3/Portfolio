@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://dasilv-h3.github.io',
-    base: '/',
+    base: '/Portfolio/',
 	devToolbar: {
 		enabled: false,
 	},
