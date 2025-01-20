@@ -15,7 +15,7 @@
  */
 export const portfolioData = [
 	{
-		imgSrc: '/img/airneis.png',
+		imgSrc: 'img/airneis.png',
 		title: 'Airneis',
 		skills: ['MongoDB', 'Express', 'React', 'NodeJS', 'Tailwind', 'Docker'],
 		description:
@@ -25,7 +25,7 @@ export const portfolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/img/frontick_fc.png',
+		imgSrc: 'img/frontick_fc.png',
 		title: 'FrontKick FC',
 		skills: ['NodeJS', 'React', 'Tailwind', 'Typescript', 'Docker'],
 		description:
@@ -36,7 +36,7 @@ export const portfolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: '/img/pychathon.png',
+		imgSrc: 'img/pychathon.png',
 		title: 'Pychathon',
 		skills: ['Python', 'Flask', 'HTML', 'CSS', 'Javascript'],
 		description:
